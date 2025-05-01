@@ -1,2 +1,0 @@
-# store
-clothing store
